@@ -1,0 +1,26 @@
+img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+width: 100px;
+height: 100px;
+background-color: aqua;
+transform:rotate(45 deg)scale(1.5);
+transform-origin: center;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transform:rotate(102deg)scale(1);
+    transform-origin: center;
+}
+.img3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(143, 26, 96);
+    transform:rotate(20deg)scale(2);
+    transform-origin: center;
+    }

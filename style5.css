@@ -1,0 +1,35 @@
+img{
+    width: 100px;
+}
+.div{
+    width: 1000px;
+    height: 1000px;
+    background-color: brown;
+}
+.section-img-1{
+    mix-blend-mode:color-burn;
+}
+.section-img-2{
+    mix-blend-mode:luminosity;
+}
+.section-img-3{
+    mix-blend-mode:difference;
+}
+.section-img-4{
+    mix-blend-mode:multiply;
+}
+.section-img-5{
+    mix-blend-mode:color-dodge;
+}
+.section-img-6{
+    mix-blend-mode:screen;
+}
+.section-img-7{
+    mix-blend-mode:normal;
+}
+.section-img-8{
+    mix-blend-mode:soft-light;
+}
+.section-img-9{
+    mix-blend-mode:exclusion;
+}
